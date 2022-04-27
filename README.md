@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3r1ckamorim
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any cool preject
 - 📫 How to reach me ( 3r1ckamorim@gmail.com )
 
 <!---
