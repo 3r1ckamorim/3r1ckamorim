@@ -1,0 +1,6 @@
+nome=input('qual o nome completo:')
+maiu=nome.upper()
+minu=nome.lower()
+q_letras=len(nome)-nome.count(' ')
+pri_quant=nome.find(' ')
+print(maiu, minu, q_letras, pri_quant)

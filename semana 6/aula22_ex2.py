@@ -1,0 +1,7 @@
+tupla=('Caxias','Santos','Atlético','Corinthians','Cuiabá','Internacional','Avaí','Red Bull Bragantino','Palmeiras','Flamengo','Coritiba','São Paulo	','Botafogo','Fluminense','América-MG','Ceará','Athletico-PR','Goiás','Juventude','Chapecoense')
+print(f'Os primeiros 5 colocados: {tupla[0:5]}')
+print(f'Os ultimos 4 colocados: {tupla[16:20]}')
+ordem=sorted(tupla)
+print(f'Os times em ordem alfabética: {ordem}')
+po=(tupla.index('Chapecoense')+1)
+print(f'O time Chapecoense está na posição: {po}')
